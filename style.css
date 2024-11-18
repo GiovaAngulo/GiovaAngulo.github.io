@@ -1,0 +1,35 @@
+label {
+display: block;
+margin-bottom: 10px;
+}
+
+input[type="number"] {
+width: 100%;
+padding: 10px;
+margin-bottom: 20px;
+border: 1px solid #ccc;
+border-radius: 3px;
+box-sizing: border-box;
+}
+
+button {
+width: 100%;
+padding: 10px;
+background-color: #007bff;
+color: #fff;
+border: none;
+border-radius: 3px;
+cursor: pointer;
+}
+
+button:hover {
+background-color: #0056b3;
+}
+
+.result {
+margin-top: 20px;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 3px;
+background-color: #f9f9f9;
+}
